@@ -40,8 +40,8 @@ GPL 协议：对开源最苛刻的协议，具有传染性。
 
 参考资料
 
-- [问题“主流开源协议之间有何异同？”下“GcsSloop”的回答](https://www.zhihu.com/question/19568896/answer/122973704)  
-- [问题“主流开源协议之间有何异同？”下“Yang彬彬”的回答](https://www.zhihu.com/question/19568896/answer/20907890)  
-- [meiyu. 作为前端，你需要了解的开源协议知识](https://zhuanlan.zhihu.com/p/35876146)  
-- [Choose an open source license](https://choosealicense.com/)  
-- [选择一个开源软件协议](http://choosealicense.online/)  
+1. [问题“主流开源协议之间有何异同？”下“GcsSloop”的回答](https://www.zhihu.com/question/19568896/answer/122973704)  
+2. [问题“主流开源协议之间有何异同？”下“Yang彬彬”的回答](https://www.zhihu.com/question/19568896/answer/20907890)  
+3. [meiyu. 作为前端，你需要了解的开源协议知识](https://zhuanlan.zhihu.com/p/35876146)  
+4. [Choose an open source license](https://choosealicense.com/)  
+5. [选择一个开源软件协议](http://choosealicense.online/)  
