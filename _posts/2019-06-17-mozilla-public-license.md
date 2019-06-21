@@ -2,7 +2,7 @@
 layout: post
 title:  "开源协议简介"
 date:   2019-06-17 12:37:00 +0800
-categories: jekyll update
+categories: mozilla-public-license
 ---
 
 # 为什么要添加开源协议?

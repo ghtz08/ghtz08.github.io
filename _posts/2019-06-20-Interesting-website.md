@@ -2,7 +2,7 @@
 layout: post
 title:  "有趣的网站"
 date:   2019-06-20 10:27:06 +0800
-categories: jekyll update
+categories: sites
 ---
 
 - [PURECPP](http://purecpp.org/)  
