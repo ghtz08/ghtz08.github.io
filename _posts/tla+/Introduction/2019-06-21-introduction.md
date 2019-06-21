@@ -45,7 +45,7 @@ end algorithm; *)
 
 ## 友好的指南在哪里？
 
-你好！本指南以一种简单、实用的方式涵盖了 TLA+ 的基础知识。如果你想从初级开始，你可以先了解更多我们在[**这里**](/tla+/introduction/about-this-guide)讨论的内容。如果你想马上深入，为什么不试试[**旋风之旅**](/tla+/introduction/about-this-guide)。
+你好！本指南以一种简单、实用的方式涵盖了 TLA+ 的基础知识。如果你想从初级开始，你可以先了解更多我们在[**这里**](/tla+/introduction/about-this-guide)讨论的内容。如果你想马上深入，为什么不试试[**旋风之旅**](/tla+/introduction/example)。
 
 无论如何，欢迎来的 TLA+！
 
