@@ -18,6 +18,7 @@
     <input id="firstUnit" type="checkbox" onclick="init()" checked ="checked"/> 作业 1
     <input id="secondUnit" type="checkbox" onclick="init()" checked ="checked"/> 作业 2
     <input id="thirdUnit" type="checkbox" onclick="init()" checked ="checked"/> 作业 3
+    <input id="otherUnit" type="checkbox" onclick="init()" checked ="checked"/> 其它作业
     <p id = "tip">
     </p>
 </body>
@@ -87,6 +88,7 @@
             document.getElementById("firstUnit").checked,
             document.getElementById("secondUnit").checked,
             document.getElementById("thirdUnit").checked,
+            document.getElementById("otherUnit").checked,
         );
         if (data.length === 0) {
             tipElement.innerText = "至少需要选择一项作业";
@@ -185,10 +187,32 @@
                 ["______ test is system test performed to determine whether system meets user requirements.", "Acceptance"],
                 ["The Testing is process of examining a product to determine if any ______ exist.", "defects"],
             ],
+            [
+                ["software engineering is concerned with the ______ of developing and delivering useful software.", "practicalities",],
+                ["System engineers are involved in system specification, ______ integration and deployment.", "architectural design",],
+                ["The software should deliver the required functionality and performance to the user and should be ______, dependable and acceptable.", "maintainable",],
+                ["Testing stages: Component or unit testing, System testing, ______ testing.", "Acceptance",],
+                ["Types of requirement User requirements and ______ requirements.", "System",],
+                ["User requirements are defined using natural language, tables and ______ as these can be understood by all users.", "diagrams",],
+                ["Event Table-a catalog of use ______ listed by event.", "cases",],
+                ["Sequence diagrams show the sequence of ______ that take place during some user interaction with a system.", "events",],
+                ["Intranets that have been extended outside the ______.", "organization",],
+                ["Presentation layer.Concerned with presenting the ______ of a computation to system users and with collecting user inputs.", "results",],
+                ["Domain model class diagram shows conceptual classes in users’ work ______.", "environment",],
+                ["Attribute visibility(private or public)attribute ______ type-expression, initial-value, property.", "name",],
+                ["Coupling-qualitative ______ of how closely classes in a design class diagram are linked.", "measure",],
+                ["Cohesion-qualitative ______ of consistency of functions within a single class.", "measure",],
+                ["Peer to peer (p2p) systems are decentralised systems where computations may be carried out by any ______ in the network.", "node",],
+                ["The DFD Fragments are created for each use case in the ______ table.", "event",],
+                ["Most DFD fragments can be further described using structured ______.", "English",],
+                ["Data stores need to be described in terms of data ______.", "elements",],
+                ["Structured English is well-suited for lengthy sequential processes or simple control ______ (single loop or if-then-else).", "logic",],
+                ["Testing levels are related to specific SDLC ______.", "phases",],
+            ]
         ];
 
         var data = []
-        for (var i = 0; i < 3; ++i) {
+        for (var i = 0; i < arguments.length; ++i) {
             if (arguments[i]) {
                 data = data.concat(_allTest[i]);
             }
