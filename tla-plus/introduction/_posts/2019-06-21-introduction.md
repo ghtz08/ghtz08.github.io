@@ -6,6 +6,8 @@ categories: TLA+
 permalink: /tla+/introduction/
 ---
 
+[//]: # (<!-- markdownlint-disable MD026 -->)
+
 ## 什么是 TLA+？
 
 TLA+ 是一个*形式化规范语言*（formal specification language）。它是设计系统和算法的工具，通过编程验证系统没有关键（critical）的 BUG。它相当于蓝图的软件。
@@ -45,7 +47,7 @@ end algorithm; *)
 
 ## 友好的指南在哪里？
 
-你好！本指南以一种简单、实用的方式涵盖了 TLA+ 的基础知识。如果你想从初级开始，你可以先了解更多我们在[**这里**](/tla+/introduction/about-this-guide)讨论的内容。如果你想马上深入，为什么不试试[**旋风之旅**](/tla+/introduction/example)。
+你好！本指南以一种简单、实用的方式涵盖了 TLA+ 的基础知识。如果你想从初级开始，你可以先了解更多我们在[**这里**]({{site.baseurl}}{% post_url tla-plus/introduction/2019-06-21-about-this-guide %})讨论的内容。如果你想马上深入，为什么不试试[**旋风之旅**]({% post_url tla-plus/introduction/2019-06-21-example %})。
 
 无论如何，欢迎来的 TLA+！
 
