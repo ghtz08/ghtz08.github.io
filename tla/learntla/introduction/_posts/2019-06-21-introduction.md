@@ -2,8 +2,8 @@
 layout: post
 title:  "前言"
 date:   2019-06-21 15:11:03 +0800
-categories: TLA+
-permalink: /tla+/introduction/
+categories: [TLA+, Learn TLA+ 的翻译]
+permalink: /tla/learntla/introduction/
 ---
 
 [//]: # (<!-- markdownlint-disable MD026 -->)
@@ -47,7 +47,7 @@ end algorithm; *)
 
 ## 友好的指南在哪里？
 
-你好！本指南以一种简单、实用的方式涵盖了 TLA+ 的基础知识。如果你想从初级开始，你可以先了解更多我们在[**这里**]({{site.baseurl}}{% post_url tla-plus/introduction/2019-06-21-about-this-guide %})讨论的内容。如果你想马上深入，为什么不试试[**旋风之旅**]({% post_url tla-plus/introduction/2019-06-21-example %})。
+你好！本指南以一种简单、实用的方式涵盖了 TLA+ 的基础知识。如果你想从初级开始，你可以先了解更多我们在[**这里**]({{site.baseurl}}{% post_url tla/learntla/introduction/2019-06-21-about-this-guide %})讨论的内容。如果你想马上深入，为什么不试试[**旋风之旅**]({% post_url tla/learntla/introduction/2019-06-21-example %})。
 
 无论如何，欢迎来的 TLA+！
 
