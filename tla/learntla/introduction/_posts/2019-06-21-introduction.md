@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "前言"
+title:  "介绍"
 date:   2019-06-21 15:11:03 +0800
 categories: [TLA+, Learn TLA+ 的翻译]
 permalink: /tla/learntla/introduction/
