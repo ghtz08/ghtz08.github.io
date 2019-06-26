@@ -6,7 +6,7 @@ categories: [TLA+, Learn TLA+ 的翻译, 前言]
 permalink: /tla/learntla/introduction/about-this-guide
 ---
 
-这个指南重点介绍了使你尽可能快地启动和运行所需的最低依赖，以及一些改进模型的中间技术。这会忽略或者简单介绍 TLA+ 的绝大部分，以便使这一小部分更容易学习。事实上这并不意味着其他部分无聊、困难或无用。只是它们超出了这个指南的范围。
+这个指南重点介绍了使你尽可能快地启动和运行所需的最低依赖，以及一些改进模型的中间技术。这会忽略或简单介绍 TLA+ 的绝大部分，以便使这一小部分更容易学习。当这并不意味着其他部分无聊、困难或无用。只是它们超出了这个指南的范围。
 
 我假定你已经有以下背景知识：
 
@@ -16,10 +16,10 @@ permalink: /tla/learntla/introduction/about-this-guide
 
 **你需要下载** [TLA+ Toolbox](https://github.com/tlaplus/tlaplus/releases/latest)。还可以访问以下资源：
 
-- [PlusCa 手册](http://lamport.azurewebsites.net/tla/high-level-view.html)：PlusCal 是 TLA+ 的算法接口。虽然我们会在本指南中详细介绍 PlusCal 的所有内容，但有一个完整的语法参考也是很好的。我们将使用手册的p版本。
-- [TLA+ 速查表](http://lamport.azurewebsites.net/tla/summary-standalone.pdf)：就和它名字一样，这包括这个指南范围之外的语法。
+- [PlusCa 手册](http://lamport.azurewebsites.net/tla/high-level-view.html)：PlusCal 是 TLA+ 的算法接口。虽然我们会在本指南中详细介绍 PlusCal 的所有内容，但有一个完整的语法参考也是很好的。我们将使用手册的 p 版本。
+- [TLA+ 速查表](/tla/assets/introduction/summary-standalone.pdf)：就和它名字一样，这包括这个指南范围之外的语法。
 - [《Specifying Systems》](http://lamport.azurewebsites.net/tla/book.html)：《Specifying Systems》由 TLA+ 的创造者 Leslie Lamport 编写，至今仍是在该主题上最全面的书籍。它比本指南高级得多，但是你应该知道它的存在。
 
-[//]: # (https://github.com/tlaplus/tlaplus/releases/download/v1.5.7/TLAToolbox-1.5.7-win32.win32.x86_64.zip)
+[//]: # (TLA+ 速查表的地址：http://lamport.azurewebsites.net/tla/summary-standalone.pdf)
 
 翻译自 [ABOUT THIS GUIDE](https://learntla.com/introduction/about-this-guide/)
