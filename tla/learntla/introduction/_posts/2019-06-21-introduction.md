@@ -16,7 +16,7 @@ TLA+ 是一个*形式化规范语言*（formal specification language）。它�
 
 这里有一个简单的 TLA+ 规范，表示人们交易单个物品。你能发现 BUG 吗？
 
-```TLA+
+```tla+
 People == {"alice", "bob"}
 Items == {"ore", "sheep", "brick"}
 (* --algorithm trade
