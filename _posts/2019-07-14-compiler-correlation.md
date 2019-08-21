@@ -26,6 +26,8 @@ categories: 编译器
   - 3rd FP2 版: `__SERIES60_32__`
   - 所有版本: `__SERIES60_3x__`
 
+> gcc 和 clang 可以用 `clang -dM -E -x c /dev/null` 来打印输出预定义的宏
+
 ## GNU 下将 typeid 得到类型名转为具有可读性的
 
 ```c
