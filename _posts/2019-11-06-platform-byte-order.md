@@ -27,4 +27,4 @@ categories: [cpu, platform]
 ```
 
 > 可能无法判断 `pandora` 系统和 `wiz` 系统  
-> 之所以这么说，因为在 `SDL_config_pandora.h` 和 `SDL_config_wiz.h` 中也定义了 `BYTEORDER`
+> 之所以这么说，因为在 `SDL_config_pandora.h` 和 `SDL_config_wiz.h` 中也定义了 `BYTEORDER` 为 `LIL_ENDIAN`
