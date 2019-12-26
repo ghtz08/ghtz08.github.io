@@ -35,6 +35,12 @@ char const * const realname = abi::__cxa_demangle(typeid(0).name(), 0, 0, 0);
 free(realname)
 ```
 
+## 显示函数签名
+
+- MSVC: __FUNCSIG__, __FUNCDNAME__
+- GCC: __PRETTY_FUNCTION__
+
+
 参考资料
 
 1. [编译器预定义的宏(可以用来区分使用的是哪种编译器) 详细??](https://zhidao.baidu.com/question/239754894534682724.html)
