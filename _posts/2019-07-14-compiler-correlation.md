@@ -31,6 +31,7 @@ categories: 编译器
 ## GNU 下将 typeid 得到类型名转为具有可读性的
 
 ```c
+#include <cxxabi.h>
 char const * const realname = abi::__cxa_demangle(typeid(0).name(), 0, 0, 0);
 free(realname)
 ```
