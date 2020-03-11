@@ -70,3 +70,13 @@ constexpr auto changeEndian
     return temp.num;
 }
 ```
+
+## 编译器内置的字节序转换函数
+
+### MSVC
+
+> _byteswap_ushort  // in <cstdlib>
+
+### GCC
+
+> __builtin_bswap16
