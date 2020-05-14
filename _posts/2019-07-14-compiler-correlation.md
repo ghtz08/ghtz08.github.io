@@ -20,7 +20,7 @@ categories: 编译器
 | MS VC++ 8.0 (Visual C++ 2005) | 1400 |
 | MS VC++ 9.0 (Visual C++ 2008) | 1500 |
 
-- symbian: `__SYMBIAN32_`
+- symbian: `__SYMBIAN32__`
   - 3rd MR 版及之前的 3rd 版本: `__SERIES60_30__`
   - 3rd FP1 版: `__SERIES60_31__`
   - 3rd FP2 版: `__SERIES60_32__`
@@ -38,7 +38,7 @@ free(realname)
 
 ## 显示函数签名
 
-- MSVC: __FUNCSIG__, __FUNCDNAME__
+- MSVC: \_\_FUNCSIG\_\_, \_\_FUNCDNAME\_\_
 - GCC: __PRETTY_FUNCTION__
 
 
