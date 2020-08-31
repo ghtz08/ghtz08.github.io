@@ -4,6 +4,7 @@ title:  "有趣的网站"
 date:   2019-06-20 10:27:06 +0800
 ---
 
+- [Cpp Quiz](http://cppquiz.org)
 - [Cpp Insights](https://cppinsights.io/)
 - [Quick Bench](http://quick-bench.com)  
 - [Compiler Explorer](https://gcc.godbolt.org)  
