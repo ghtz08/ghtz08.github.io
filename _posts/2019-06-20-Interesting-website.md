@@ -4,6 +4,7 @@ title:  "有趣的网站"
 date:   2019-06-20 10:27:06 +0800
 ---
 
+- [Courses in Computer Science and Engineering](https://www.cs.washington.edu/education/courses)
 - [图片处理：CVPy-CV派](https://www.cvpy.net)
 - [Pi-Search Results](https://www.angio.net/pi/bigpi.cgi)
 - [Cpp Quiz](http://cppquiz.org)
