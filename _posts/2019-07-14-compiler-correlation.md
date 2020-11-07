@@ -46,3 +46,4 @@ free(realname)
 
 1. [编译器预定义的宏(可以用来区分使用的是哪种编译器) 详细??](https://zhidao.baidu.com/question/239754894534682724.html)
 2. [Chapter 28. Demangling](https://gcc.gnu.org/onlinedocs/libstdc++/manual/ext_demangling.html)
+3. [Pre-defined Compiler Macros](https://sourceforge.net/p/predef/wiki/Home)
