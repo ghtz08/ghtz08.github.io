@@ -4,6 +4,10 @@ title:  "有趣的网站"
 date:   2019-06-20 10:27:06 +0800
 ---
 
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
+- [x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)
+- [Latency, Throughput, And Port Usage Information](https://www.uops.info/)
+- [生成随机动漫头像](https://www.thiswaifudoesnotexist.net/)
 - [Courses in Computer Science and Engineering](https://www.cs.washington.edu/education/courses)
 - [图片处理：CVPy-CV派](https://www.cvpy.net)
 - [Pi-Search Results](https://www.angio.net/pi/bigpi.cgi)
@@ -27,8 +31,8 @@ date:   2019-06-20 10:27:06 +0800
 - [渡世白玉(Qt)](https://www.dushibaiyu.com/)  
 - [刘未鹏(从ACM中得知)](http://mindhacks.cn/)  
 - [陈梓瀚(vczh). λ-calculus in CnBlogs.](https://www.cnblogs.com/geniusvczh/)  
-- [陈硕](https://me.csdn.net/Solstice)  
-- [g9yuayon](http://www.cppblog.com/Solstice/archive/2011/07/17/151224.html)  
+- [陈硕的 CSDN](https://me.csdn.net/Solstice)  
+- [陈硕的 Blog](http://www.cppblog.com/Solstice/archive/2011/07/17/151224.html)  
 - [g9yuayon(从vczh的博客得知)](https://me.csdn.net/g9yuayon)  
-- ~~[Qt、设计模式](http://www.qtdoc.cn/)~~  
-- [PDF 转换软件](https://cloudconvert.com)  
+- [Qt 中文文档](http://www.qtdoc.cn/)
+- [在线格式转换（包括 PDF）](https://cloudconvert.com)
