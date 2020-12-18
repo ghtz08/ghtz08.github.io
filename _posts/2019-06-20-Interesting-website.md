@@ -8,6 +8,7 @@ date:   2019-06-20 10:27:06 +0800
 - [x86/x64 SIMD Instruction List (SSE to AVX512)](https://www.officedaytime.com/simd512e/)
 - [Latency, Throughput, And Port Usage Information](https://www.uops.info/)
 - [生成随机动漫头像](https://www.thiswaifudoesnotexist.net/)
+- [生成随机的人脸](https://thispersondoesnotexist.com/)
 - [Courses in Computer Science and Engineering](https://www.cs.washington.edu/education/courses)
 - [图片处理：CVPy-CV派](https://www.cvpy.net)
 - [Pi-Search Results](https://www.angio.net/pi/bigpi.cgi)
