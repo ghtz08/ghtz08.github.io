@@ -4,6 +4,7 @@ title:  "有趣的网站"
 date:   2019-06-20 10:27:06 +0800
 ---
 
+- [kernelconfig](https://www.kernelconfig.io/)
 - [Neat Reader](www.neat-reader.cn/webapp)
 - [test ipv6](http://test-ipv6.com/)
 - [Software optimization resources](https://www.agner.org/optimize/)
