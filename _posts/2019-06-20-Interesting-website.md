@@ -4,6 +4,11 @@ title:  "有趣的网站"
 date:   2019-06-20 10:27:06 +0800
 ---
 
+
+- [临时信息交流（国内可访问，富文本）ctxt.io](https://ctxt.io/)  
+- [临时信息交流（需要翻墙，富文本）justpaste.it](https://justpaste.it/)  
+- [临时信息交流（需要翻墙和登录，支持编程语言）](https://sharetext.me/)  
+- [临时信息交流（需要账号）paste.ubuntu.com](https://paste.ubuntu.com/)  
 - [kernelconfig](https://www.kernelconfig.io/)
 - [Neat Reader](www.neat-reader.cn/webapp)
 - [test ipv6](http://test-ipv6.com/)
@@ -30,8 +35,6 @@ date:   2019-06-20 10:27:06 +0800
 - [镜像软件 daemon](https://www.daemon-tools.cc)  
 - [微软社区](https://msdn.microsoft.com)  
 - [Windows 镜像 itellyou](https://msdn.itellyou.cn/)  
-- [paste.ubuntu.com](https://paste.ubuntu.com/)  
-- [ctxt.io](https://ctxt.io/)  
 - [Arch Linux 官网](https://wiki.archlinux.org/)  
 - [作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)  
 - [vim 速查表](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)  
